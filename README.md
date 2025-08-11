@@ -1,4 +1,4 @@
-# Vendor-Performance-
+# Vendor-Performance-Summary
 ### Exploratory Data Analysis
 ![Summary](https://img.shields.io/badge/status-Statistics-red?style=for-the-badge)
 <br>
